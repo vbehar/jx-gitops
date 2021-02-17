@@ -1,4 +1,4 @@
-# jx-gitops
+# jx gitops
 
 [![Documentation](https://godoc.org/github.com/jenkins-x/jx-gitops?status.svg)](https://pkg.go.dev/mod/github.com/jenkins-x/jx-gitops)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jenkins-x/jx-gitops)](https://goreportcard.com/report/github.com/jenkins-x/jx-gitops)
